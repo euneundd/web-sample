@@ -9,4 +9,4 @@
 
 <a href="https://namu.wiki/w/%ED%81%B4%EB%A1%9C%EB%93%9C%20%EB%AA%A8%EB%84%A4">
 
-<img src="./인상.jpg" width="726" height="564">
+<img src="./인상.jpg" width="500" height="374">
